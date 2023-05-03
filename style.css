@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    background-color: #00203FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #ADEFD1FF;
+    padding: 16px;
+    width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+}
+
+.container > .title {
+    
+}
